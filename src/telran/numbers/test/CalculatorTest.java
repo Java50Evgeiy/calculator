@@ -12,7 +12,7 @@ class CalculatorTest {
 	@Test
 	void testMultiply() {
 	assertEquals(4, multiply (2, 2));
-	assertEquals(-4, multiply (2, -2));
+	assertEquals(-4, multiply (2, -2)); 
 	assertEquals(4, multiply (-2, -2));
 	
 	
